@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrisaTech.SmartResidence", "TrisaTech.SmartResidence\TrisaTech.SmartResidence.csproj", "{05E87963-7F18-4020-891D-9FD953894BB2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrisaTech.SmartResidence.Persistence", "TrisaTech.SmartResidence.Persistence\TrisaTech.SmartResidence.Persistence.csproj", "{89A0ABD3-F22A-4201-BCE6-E9C6798DB11C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05E87963-7F18-4020-891D-9FD953894BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05E87963-7F18-4020-891D-9FD953894BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05E87963-7F18-4020-891D-9FD953894BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05E87963-7F18-4020-891D-9FD953894BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89A0ABD3-F22A-4201-BCE6-E9C6798DB11C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A0ABD3-F22A-4201-BCE6-E9C6798DB11C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A0ABD3-F22A-4201-BCE6-E9C6798DB11C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A0ABD3-F22A-4201-BCE6-E9C6798DB11C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C4E31CB-6713-448D-9517-85FEE2A4911B}
+	EndGlobalSection
+EndGlobal
